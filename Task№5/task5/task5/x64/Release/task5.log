@@ -1,0 +1,12 @@
+﻿  task5.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\alan makoev\source\repos\task5\task5\task5.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan makoev\source\repos\task5\task5\task5.cpp(141): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan makoev\source\repos\task5\task5\task5.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan makoev\source\repos\task5\task5\task5.cpp(259): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Создание кода
+  3 of 309 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  task5.vcxproj -> C:\Users\Alan Makoev\source\repos\task5\x64\Release\task5.exe

@@ -1,0 +1,7 @@
+﻿  task5.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\alan makoev\source\repos\task5\task5\task5.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan makoev\source\repos\task5\task5\task5.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan makoev\source\repos\task5\task5\task5.cpp(144): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alan makoev\source\repos\task5\task5\task5.cpp(213): warning C4018: <: несоответствие типов со знаком и без знака
+  task5.vcxproj -> C:\Users\Alan Makoev\source\repos\task5\Debug\task5.exe
